@@ -59,6 +59,11 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [原野](https://ruufly.github.io/2024/11/03/wide-field/)
+- [U314392 distjr_想买书 题解](https://ruufly.github.io/2024/02/18/u314392-solution/)
+- [回来？](https://ruufly.github.io/2023/10/31/come-back/)
+- [test](https://ruufly.github.io/2023/07/22/test/)
+- [一场提前告知的自杀](https://ruufly.github.io/2023/05/11/planned-jisatsu/)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>  

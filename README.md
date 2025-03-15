@@ -59,11 +59,11 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
-- [最新 | 一九六八年](https://ruufly.github.io/2024/12/26/1968/)
+- [最新 | 土地](https://ruufly.github.io/2025/01/08/land/)
+- [一九六八年](https://ruufly.github.io/2024/12/26/1968/)
 - [原野](https://ruufly.github.io/2024/11/03/wide-field/)
 - [一种基于人工智能技术的系统发生树绘制与物种演化路径推断系统](https://ruufly.github.io/2024/10/08/aitd/)
 - [回来？Ⅱ](https://ruufly.github.io/2024/03/20/come-back-2/)
-- [U314392 distjr_想买书 题解](https://ruufly.github.io/2024/02/18/u314392-solution/)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>  

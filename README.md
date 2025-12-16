@@ -59,11 +59,11 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
-- [最新 | U571839 千本桜 题解](https://ruufly.github.io/2025/08/21/u571839-solution/)
+- [最新 | 一款基于Python的随机学生点名器](https://ruufly.github.io/2025/12/16/random-student/)
+- [U571839 千本桜 题解](https://ruufly.github.io/2025/08/21/u571839-solution/)
 - [土地](https://ruufly.github.io/2025/01/08/land/)
 - [一九六八年](https://ruufly.github.io/2024/12/26/1968/)
 - [原野](https://ruufly.github.io/2024/11/03/wide-field/)
-- [一种基于人工智能技术的系统发生树绘制与物种演化路径推断系统](https://ruufly.github.io/2024/10/08/aitd/)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>  

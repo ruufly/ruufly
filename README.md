@@ -59,11 +59,11 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
-- [最新 | 关于我的高中三年](https://ruufly.github.io/2026/06/11/graduate/)
-- [最新 | KeepOpen：一款保持移动硬盘开启状态的小工具](https://ruufly.github.io/2026/06/11/keepopen/)
-- [一款基于Python的随机学生点名器](https://ruufly.github.io/2025/12/16/random-student/)
-- [U571839 千本桜 题解](https://ruufly.github.io/2025/08/21/u571839-solution/)
-- [土地](https://ruufly.github.io/2025/01/08/land/)
+- [最新 | KeepOpen：一款保持移动硬盘开启状态的小工具](https://blog.distjr.top/2026/06/11/keepopen/)
+- [最新 | 关于我的高中三年](https://blog.distjr.top/2026/06/11/graduate/)
+- [一款基于Python的随机学生点名器](https://blog.distjr.top/2025/12/16/random-student/)
+- [U571839 千本桜 题解](https://blog.distjr.top/2025/08/21/u571839-solution/)
+- [土地](https://blog.distjr.top/2025/01/08/land/)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>  

@@ -59,11 +59,11 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [天津行记](https://blog.distjr.top/2026/07/02/2260702/)
 - [最终选择去天津大学了](https://blog.distjr.top/2026/06/28/2260628/)
 - [上伊那牡丹，看完了](https://blog.distjr.top/2026/06/27/botan/)
 - [帖子测试](https://blog.distjr.top/2026/06/27/short-test/)
 - [最新 | 关于我的高中三年](https://blog.distjr.top/2026/06/11/graduate/)
-- [最新 | KeepOpen：一款保持移动硬盘开启状态的小工具](https://blog.distjr.top/2026/06/11/keepopen/)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>  

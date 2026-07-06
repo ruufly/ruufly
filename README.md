@@ -59,11 +59,11 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [最新 | 画中少女](https://blog.distjr.top/2026/07/05/the-girl-in-the-painting/)
 - [天津行记](https://blog.distjr.top/2026/07/02/2260702/)
 - [最终选择去天津大学了](https://blog.distjr.top/2026/06/28/2260628/)
 - [上伊那牡丹，看完了](https://blog.distjr.top/2026/06/27/botan/)
 - [帖子测试](https://blog.distjr.top/2026/06/27/short-test/)
-- [最新 | 关于我的高中三年](https://blog.distjr.top/2026/06/11/graduate/)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>  
